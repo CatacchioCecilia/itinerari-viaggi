@@ -557,7 +557,7 @@ const TRIP = {
           description:
             "Caffè tostato in casa e i croissant cubo più fotografati della città. È 20 minuti dall’hotel, sulla strada dei laghi: fate colazione qui e rientrate verso Rosenborg a piedi lungo Søerne. Stessa palazzina di Poulette, dove cenate stasera.",
           hours: "Di solito dalla mattina a metà pomeriggio; coda nel weekend, lunedì è più civile",
-          tickets: "Caffè e pastry 60–120 DKK (~8–16 €)"
+          tickets: "Caffè e pastry 60–120 DKK (~8–16 €)",
           how: "Da Borgergade verso i laghi, poi Nørrebrogade. 20 minuti a piedi.",
           duration: "40 min",
           lat: 55.6888,
@@ -574,7 +574,7 @@ const TRIP = {
           description:
             "Il giardino del re è il parco sotto casa: siepi, statue, prato. Poi il castello olandese e i gioielli della corona. Se dovete scegliere un solo palazzo a pagamento, è questo.",
           hours: "10:00–17:00 tutti i giorni in ottobre",
-          tickets: "140 DKK (~19 €) online / 150 DKK (~20 €) in cassa"
+          tickets: "140 DKK (~19 €) online / 150 DKK (~20 €) in cassa",
           how: "Dai laghi verso Øster Voldgade 4A, ingresso dal parco.",
           duration: "1h 15min",
           lat: 55.6867,
@@ -777,7 +777,7 @@ const TRIP = {
           description:
             "Sculture, impressionisti, giardino d’inverno sotto vetro. Martedì è aperto. Non allungate troppo: dopo c’è Kaktus e Jagger.",
           hours: "Di solito 10:00–17:00, chiuso il lunedì",
-          tickets: "135 DKK (~18 €) online / 150 DKK (~20 €) in cassa"
+          tickets: "135 DKK (~18 €) online / 150 DKK (~20 €) in cassa",
           how: "12 minuti a piedi da Fiolstræde verso Dantes Plads 7.",
           duration: "1h 10min",
           lat: 55.6726,
@@ -811,7 +811,7 @@ const TRIP = {
           description:
             "Smash burger danese in piazza del Municipio, sulla via del rientro. Non sostituisce Gasoline: quello l’avete già fatto sabato. C’è anche Jagger in Købmagergade 43, se preferite il centro.",
           hours: "Pranzo e cena, tutti i giorni",
-          tickets: "Burger 90–140 DKK (~12–19 €). Non si prenota."
+          tickets: "Burger 90–140 DKK (~12–19 €). Non si prenota.",
           how: "10 minuti da Dybbølsbro verso Rådhuspladsen.",
           duration: "40 min",
           lat: 55.6756,
