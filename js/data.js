@@ -40,7 +40,7 @@ const TRIP = {
     },
     {
       title: "Come muoversi",
-      text: "In questi giorni si cammina. Il City Pass Small (zone 1–4, aeroporto incluso) serve solo se usate spesso metro e harbour bus: 96 ore 280 DKK, 120 ore 340 DKK. Altrimenti due biglietti aeroporto (60 DKK) bastano.",
+      text: "In questi giorni si cammina. Il City Pass Small (zone 1–4, aeroporto incluso) serve solo se usate spesso metro e harbour bus: 96 ore 280 DKK (~37 €), 120 ore 340 DKK (~45 €). Altrimenti due biglietti aeroporto (60 DKK, ~8 €) bastano.",
     },
     {
       title: "Ottobre",
@@ -152,7 +152,7 @@ const TRIP = {
           description:
             "Bredgade 58, tra l’hotel e la Marmorkirken. Cucina danese, smørrebrød, aperto fino alle 22:00: è il posto giusto la sera dell’arrivo, senza prenotazione da farneticare. Domani ci ripassate di giorno per il giro reale.",
           hours: "Tutti i giorni 9:30–22:00",
-          tickets: "Cena circa 250–400 DKK a testa. Non serve prenotare se arrivate verso le 22:00, ma a ottobre può essere pieno: se potete, un messaggio nel pomeriggio.",
+          tickets: "Cena circa 250–400 DKK (~33–53 €) a testa. Non serve prenotare se arrivate verso le 22:00, ma a ottobre può essere pieno: se potete, un messaggio nel pomeriggio.",
           how: "8 minuti a piedi da Nyhavn, 6 dall’hotel, lungo Bredgade.",
           duration: "45–60 min",
           lat: 55.6847,
@@ -185,7 +185,7 @@ const TRIP = {
           description:
             "Il forno dell’ex pastry chef di Noma, a 5 minuti dall’hotel. Pane di lievito madre, croissant, cardamomo. Arrivate all’apertura: il pane buono finisce. C’è anche una Hart in Gammel Mønt, più in centro, se questa ha coda.",
           hours: "Di solito 7:30–18:00",
-          tickets: "Colazione 60–120 DKK. Solo da asporto o pochi sgabelli: si mangia in piedi o al volo.",
+          tickets: "Colazione 60–120 DKK (~8–16 €). Solo da asporto o pochi sgabelli: si mangia in piedi o al volo.",
           how: "Da Borgergade a destra su Store Kongensgade, 5 minuti.",
           duration: "30 min",
           lat: 55.6852,
@@ -270,7 +270,7 @@ const TRIP = {
           description:
             "Ogni giorno alle 12:00 il cambio della guardia in piazza, gratis. Arrivate entro le 11:45. La Guardia parte dalla caserma di Gothersgade verso le 11:27.",
           hours: "Piazza sempre aperta. Cambio alle 12:00",
-          tickets: "Piazza e cerimonia gratis. Museo 125 DKK online se volete entrare.",
+          tickets: "Piazza e cerimonia gratis. Museo 125 DKK (~17 €) online se volete entrare.",
           how: "2 minuti a piedi dalla Marmorkirken.",
           duration: "40 min",
           lat: 55.684,
@@ -304,7 +304,7 @@ const TRIP = {
           description:
             "Tappa fissa, non opzionale. I burger più famosi della città, carne danese, fino a esaurimento. Questa è LA volta: lunedì fate il food market, martedì Jagger. Arrivate prima delle 14:00. App Gasoline Grill per preordinare se la coda è lunga.",
           hours: "Burger tutti i giorni dalle 11:00 fino a esaurimento",
-          tickets: "Burger circa 90–130 DKK. Non si prenota. App Gasoline Grill per preordine.",
+          tickets: "Burger circa 90–130 DKK (~12–17 €). Non si prenota. App Gasoline Grill per preordine.",
           how: "25 minuti a piedi dalla Sirenetta via Bredgade / Kongens Nytorv, oppure 15 da Amalienborg se saltate la Sirenetta.",
           duration: "45 min",
           lat: 55.6796,
@@ -389,7 +389,7 @@ const TRIP = {
           description:
             "Street food di sera, sul porto, accanto a Knippelsbro. Sabato i banchi stanno aperti fino alle 21:00, i bar più tardi. Prendete da un banco e una Fritz-Cola: è la cola che si beve qui (tedesca, ovunque a Copenaghen, non ha un locale suo). Barr è la porta accanto se volete tavolo, ma stasera è Broens.",
           hours: "Banchi ven–sab circa 11:00–21:00. Bar più tardi",
-          tickets: "Piatto 90–160 DKK. Fritz-Cola ~35 DKK. Non si prenota il banco.",
+          tickets: "Piatto 90–160 DKK (~12–21 €). Fritz-Cola ~35 DKK (~5 €). Non si prenota il banco.",
           how: "Dal Diamante Nero, 8 minuti sul ponte verso Strandgade.",
           duration: "1h 30min",
           lat: 55.6751,
@@ -422,7 +422,7 @@ const TRIP = {
           description:
             "Hart apre più tardi. Buka dalle 7:00, a 4 minuti dall’hotel: cardamomo da asporto e si parte. Se siete in ritardo, caffè e pane sul treno (DSB serve colazione fino alle 10:00).",
           hours: "Buka tutti i giorni circa 7:00–18:00",
-          tickets: "50–90 DKK da asporto",
+          tickets: "50–90 DKK (~7–12 €) da asporto",
           how: "Da Borgergade verso Kongens Nytorv, Store Kongensgade 18.",
           duration: "15 min",
           lat: 55.6818,
@@ -439,7 +439,7 @@ const TRIP = {
           description:
             "Metro da Kongens Nytorv (una fermata, M3/M4) o 20 minuti a piedi. Controllate l’orario esatto su DSB / app: InterCityLyn per Aarhus, circa 2h 50min. Biglietto Orange se lo prendete in anticipo.",
           hours: "Treni frequentissimi tutta la mattina",
-          tickets: "Andata e ritorno da circa 119–400 DKK a testa, secondo Orange o flessibile",
+          tickets: "Andata e ritorno da circa 119–400 DKK (~16–53 €) a testa, secondo Orange o flessibile",
           how: "Metro Kongens Nytorv → København H, oppure a piedi per Strøget verso la stazione.",
           duration: "20 min",
           lat: 55.6728,
@@ -473,7 +473,7 @@ const TRIP = {
           description:
             "Due cose, non una. Sotto terra: As Seen Below — The Dome, lo Skyspace di James Turrell (aperto da giugno 2026): si prenota lo slot su aros.dk. Sul tetto: Your rainbow panorama di Olafur Eliasson, l’anello di vetro colorato sulla città. Domenica 9:00–17:00. Il lunedì è chiuso, martedì volate: è oggi o niente.",
           hours: "Domenica 9:00–17:00. Da ottobre 2026 il lunedì è chiuso",
-          tickets: "Adulto 200 DKK. The Dome: prenotare la fascia oraria sul sito ARoS.",
+          tickets: "Adulto 200 DKK (~27 €). The Dome: prenotare la fascia oraria sul sito ARoS.",
           how: "10 minuti a piedi da Aarhus H, dritti verso Aros Allé 2.",
           duration: "2h 30min",
           lat: 56.1539,
@@ -490,7 +490,7 @@ const TRIP = {
           description:
             "Caffè e Orangery del museo, ingresso libero anche senza biglietto. Pranzo leggero e si rientra in stazione. Non è Delphine: quella è la cena a Copenaghen.",
           hours: "Aperto negli orari del museo",
-          tickets: "Pranzo 90–160 DKK",
+          tickets: "Pranzo 90–160 DKK (~12–21 €)",
           how: "Siete già dentro. Poi 10 minuti verso Aarhus H.",
           duration: "50 min",
           lat: 56.1539,
@@ -524,7 +524,7 @@ const TRIP = {
           description:
             "La cena elegante: Mediterraneo, pesce e carne alla parrilla, sala alta e luminosa, a otto minuti a piedi da København H. Domenica aperti 17:30–00:00, ultimo arrivo 21:15. Prenotate su cofoco.dk: è il tavolo bello del viaggio, non è street food.",
           hours: "Dom–gio 17:30–00:00 (ultimo arrivo 21:15)",
-          tickets: "Cena 400–700 DKK. Prenotazione obbligatoria.",
+          tickets: "Cena 400–700 DKK (~53–93 €). Prenotazione obbligatoria.",
           how: "Usciti da København H, Vesterbrogade verso ovest, numero 40. 8 minuti.",
           duration: "1h 45min",
           lat: 55.6726,
@@ -557,7 +557,7 @@ const TRIP = {
           description:
             "Caffè tostato in casa e i croissant cubo più fotografati della città. È 20 minuti dall’hotel, sulla strada dei laghi: fate colazione qui e rientrate verso Rosenborg a piedi lungo Søerne. Stessa palazzina di Poulette, dove cenate stasera.",
           hours: "Di solito dalla mattina a metà pomeriggio; coda nel weekend, lunedì è più civile",
-          tickets: "Caffè e pastry 60–120 DKK",
+          tickets: "Caffè e pastry 60–120 DKK (~8–16 €)"
           how: "Da Borgergade verso i laghi, poi Nørrebrogade. 20 minuti a piedi.",
           duration: "40 min",
           lat: 55.6888,
@@ -574,7 +574,7 @@ const TRIP = {
           description:
             "Il giardino del re è il parco sotto casa: siepi, statue, prato. Poi il castello olandese e i gioielli della corona. Se dovete scegliere un solo palazzo a pagamento, è questo.",
           hours: "10:00–17:00 tutti i giorni in ottobre",
-          tickets: "140 DKK online / 150 in cassa (~19 €)",
+          tickets: "140 DKK (~19 €) online / 150 DKK (~20 €) in cassa"
           how: "Dai laghi verso Øster Voldgade 4A, ingresso dal parco.",
           duration: "1h 15min",
           lat: 55.6867,
@@ -659,7 +659,7 @@ const TRIP = {
           description:
             "Il food market coperto accanto a Nørreport: due padiglioni, banconi, pesce, smørrebrød, caffè. Gasoline è già stata sabato, oggi è questo. Un banco, si mangia in piedi. Lunedì chiude alle 19:00.",
           hours: "Lun–ven circa 10:00–19:00",
-          tickets: "Pranzo 80–160 DKK. Si paga al banco.",
+          tickets: "Pranzo 80–160 DKK (~11–21 €). Si paga al banco.",
           how: "5 minuti da Samsøe verso Nørreport / Frederiksborggade.",
           duration: "50 min",
           lat: 55.6838,
@@ -693,7 +693,7 @@ const TRIP = {
           description:
             "Tappa fissa, come Gasoline per il burger: qui è il panino al pollo. Croccante, stesso isolato di Andersen & Maillard. Non lo saltate per Tivoli: mangiate qui, poi entrate al parco.",
           hours: "Verificare; di solito pranzo e prima serata",
-          tickets: "Piatto 100–180 DKK. Spesso senza prenotazione.",
+          tickets: "Piatto 100–180 DKK (~13–24 €). Spesso senza prenotazione.",
           how: "Nørrebrogade 62, stesso isolato di Andersen & Maillard.",
           duration: "45 min",
           lat: 55.6888,
@@ -710,7 +710,7 @@ const TRIP = {
           description:
             "Visita di Halloween: zucche, luci, tramonto verso le 18:20. Il 12 ottobre è vacanza scolastica, sarà pieno. L’ingresso non include le giostre. Non saltatela: è la sera del parco.",
           hours: "Halloween 2026: da circa 11:00 a 22:00",
-          tickets: "Ingresso da circa 150 DKK. Ride Pass extra da ~299 DKK. Meglio online.",
+          tickets: "Ingresso da circa 150 DKK (~20 €). Ride Pass extra da ~299 DKK (~40 €). Meglio online.",
           how: "Da Nørrebro, metro o 25 minuti a piedi fino a Vesterbrogade 3.",
           duration: "2h–2h 30min",
           lat: 55.6737,
@@ -743,7 +743,7 @@ const TRIP = {
           description:
             "Il forno a 4 minuti dall’hotel, accanto a WILDE. Cardamomo, focaccia, caffè. Aperto tutti i giorni dalle 7:00. Oggi Hart la lasciate: è il giorno di Buka.",
           hours: "Tutti i giorni circa 7:00–18:00",
-          tickets: "60–110 DKK. Da asporto o pochi posti.",
+          tickets: "60–110 DKK (~8–15 €). Da asporto o pochi posti.",
           how: "Da Borgergade verso Kongens Nytorv, Store Kongensgade 18 a destra.",
           duration: "30 min",
           lat: 55.6818,
@@ -758,7 +758,7 @@ const TRIP = {
           neighborhood: "Latinerkvarteret",
           type: "visita",
           description:
-            "La sala di lettura ottocentesca, legno e gallerie. Aperta solo mar–sab 10:00–17:00: lunedì e domenica è chiusa, quindi oggi o niente. 75 DKK, un giro di 40 minuti. Non è il Diamante Nero: quella l’avete vista sabato.",
+            "La sala di lettura ottocentesca, legno e gallerie. Aperta solo mar–sab 10:00–17:00: lunedì e domenica è chiusa, quindi oggi o niente. 75 DKK (~10 €), un giro di 40 minuti. Non è il Diamante Nero: quella l’avete vista sabato.",
           hours: "Mar–sab 10:00–17:00. Chiusa lunedì e domenica",
           tickets: "75 DKK (~10 €)",
           how: "15 minuti dall’hotel verso Fiolstræde, dietro Vor Frue Kirke.",
@@ -777,7 +777,7 @@ const TRIP = {
           description:
             "Sculture, impressionisti, giardino d’inverno sotto vetro. Martedì è aperto. Non allungate troppo: dopo c’è Kaktus e Jagger.",
           hours: "Di solito 10:00–17:00, chiuso il lunedì",
-          tickets: "135 DKK online / 150 in cassa",
+          tickets: "135 DKK (~18 €) online / 150 DKK (~20 €) in cassa"
           how: "12 minuti a piedi da Fiolstræde verso Dantes Plads 7.",
           duration: "1h 10min",
           lat: 55.6726,
@@ -811,7 +811,7 @@ const TRIP = {
           description:
             "Smash burger danese in piazza del Municipio, sulla via del rientro. Non sostituisce Gasoline: quello l’avete già fatto sabato. C’è anche Jagger in Købmagergade 43, se preferite il centro.",
           hours: "Pranzo e cena, tutti i giorni",
-          tickets: "Burger 90–140 DKK. Non si prenota.",
+          tickets: "Burger 90–140 DKK (~12–19 €). Non si prenota."
           how: "10 minuti da Dybbølsbro verso Rådhuspladsen.",
           duration: "40 min",
           lat: 55.6756,
